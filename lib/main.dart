@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Future pickimage() async {
     try {
       print("hello1");
-      img = await ImagePicker().pickImage(source: ImageSource.camera);
+      img = await ImagePicker().pickImage(source: ImageSource.camera,imageQuality: 50);
 
       final path = 'images/new.jpg';
       if (img == null) {
