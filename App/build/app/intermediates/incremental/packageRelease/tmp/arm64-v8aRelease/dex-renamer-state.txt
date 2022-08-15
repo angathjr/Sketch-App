@@ -1,0 +1,4 @@
+#Fri May 27 04:20:42 IST 2022
+base.0=D\:\\projects\\Draw\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
