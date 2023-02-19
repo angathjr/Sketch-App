@@ -8,12 +8,12 @@ import threading
 
 from firebase import Firebase
 config = {
-    "apiKey": "AIzaSyCOeZpQzMwNyc-NS55MDMoHpgirxLOA1Nc",
-    "authDomain": "draw-49df3.firebaseapp.com",
-    "projectId": "draw-49df3",
-    "storageBucket": "draw-49df3.appspot.com",
-    "messagingSenderId": "1070391728243",
-    "appId": "1:1070391728243:web:246d90fbf9920885057206",
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
     "databaseURL": ""
 }
 firebase = Firebase(config)
